@@ -22,7 +22,7 @@ title: Alberto Acuna's Dev Blog
 email: albertoacuna3@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog where I post about my development journey, projects, and other tech-related topics.
-baseurl: "/thealeph/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://thealeph.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
