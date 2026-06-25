@@ -1,0 +1,24 @@
+---
+---
+
+$text-color:       #e8e8e8;
+$background-color: #1a1a2e;
+$brand-color:      #6ab0f5;
+$grey-color:       #9e9e9e;
+$grey-color-light: #3a3a5c;
+$grey-color-dark:  #c8c8c8;
+
+@import "minima";
+
+pre, code {
+  background-color: #2a2a4a;
+  border-color: $grey-color-light;
+}
+
+.site-header {
+  border-top-color: #1a1a2e;
+}
+
+.site-footer {
+  background-color: darken(#1a1a2e, 3%);
+}
